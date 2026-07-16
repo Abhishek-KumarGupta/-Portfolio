@@ -32,7 +32,7 @@ const Home = () => {
         </button>
 
         <a
-          href="https://drive.google.com/file/d/1agZVuU5aziFCOvivo5QLgjIfnnlO6D1R/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/10M8SfMWwmr0N0j3TDAEAb7Hbgg-CVXVM/view?usp=drivesdk"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-5 md:mt-10 ml-5 text-white py-2 px-4 text-sm md:text-base
