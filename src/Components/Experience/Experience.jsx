@@ -83,7 +83,7 @@ const Experience = () => {
               <p className="text-gray-400">Sept 2024 - Present</p>
 
               <ul className="list-disc pl-5 mt-2">
-                <li>JSS Noida</li>
+                <li> JSS Academy of Technical Education, Noida</li>
           
               </ul>
             </div>
